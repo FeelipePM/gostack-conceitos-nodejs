@@ -27,7 +27,7 @@ Acesse a pasta criada e abra no Visual Studio Code, lembre-se de executar o coma
 </p>
 
 <p align="center">
-  <img  src="assets/preview-insomnia.png">
+  <img  src="assets/preview-Insomnia.png">
 </p>
 
 ## Licença
