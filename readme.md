@@ -32,7 +32,7 @@ Acesse a pasta criada e abra no Visual Studio Code, lembre-se de executar o coma
 
 ## Licença
 
-Esse projeto está sob a licença MIT. [LICENSE](LICENSE)
+Esse projeto está sob a licença MIT. [LICENSE](LICENSE.md)
 
 ---
 
